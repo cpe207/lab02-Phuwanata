@@ -1,23 +1,24 @@
 body{
     background-color: #34323050;
 }
-p{
+p{  color: #040132;
     font-family: "IBM Plex Sans Thai" ;
     border: 3px  cornflowerblue;
     padding: 10px;
     margin: 1px;
+    background-color: rgb(171, 171, 189);
 }
-h1{
+h1{ color: blue;
     font-family: "Montserrat";
     
 }
-h2{
+h2{color: rgb(0, 119, 79);
     font-family: "Montserrat";
 }
-h3{
+h3{color: rgb(4, 155, 155);
     font-family: "Montserrat";
 }
-h4{
+h4{ color: rgb(2, 2, 91);
     font-family: "Montserrat";
     text-decoration: underline;
 }
